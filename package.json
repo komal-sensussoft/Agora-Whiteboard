@@ -1,0 +1,20 @@
+{
+  "name": "agora_join_whiteboard_room",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build",
+    "dev": "vite --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@netless/fastboard": "^0.3.8",
+    "@netless/window-manager": "^0.4.62",
+    "white-web-sdk": "^2.16.46"
+  },
+  "devDependencies": {
+      "vite": "latest"
+      }
+}
